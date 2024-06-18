@@ -4,7 +4,7 @@
  * @author x86skwizer <https://github.com/x86skiwizer>
  */
 const displayMessage = (msg) => {
-	console.log(msg);
+  console.log(msg);
 }
 
 module.exports = displayMessage;
